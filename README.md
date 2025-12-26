@@ -17,10 +17,6 @@ ASCII(**A**merican **S**tandard **C**ode for **I**nformation **I**nterchange)
 # Generate ASCII Image & Video
 <img width="30%" height="30%" alt="제목 없는 다이어그램 drawio" src="https://github.com/user-attachments/assets/d918e083-134b-4569-8558-9195fc875355" />
 
-### 0. open cv
-
-### 0. ascii_magic
-
 ### 1. ASCII Code
 ```text
 Image(Original) -> HTML(ASCII) -> Text
