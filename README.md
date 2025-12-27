@@ -23,6 +23,8 @@ Image(Original) -> HTML(ASCII) -> Text
 ```
 
 ### 2. ASCII Image
+<img width="790" height="778" alt="Image" src="https://github.com/user-attachments/assets/fae82ea7-b646-4769-a437-d4749be326bf" />
+
 ```text
 Image(Original) -> HTML(ASCII) -> Image
 ```
